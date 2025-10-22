@@ -6,7 +6,7 @@
 
 Recién Egresado de la carrera de Tecnologías de la información en busca de oportunidades.
 - México 🇲🇽
-- Techstack: Java, Typescript, Python, Php
+- Techstack: Java, Javascript, Typescript, Python, Php.
 
 # Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuillermoMora03&theme=radical)](https://git.io/streak-stats)
