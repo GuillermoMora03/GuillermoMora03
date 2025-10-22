@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**GuillermoMora03/GuillermoMora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola soy Guillermo!
 
-Here are some ideas to get you started:
+[Linkedin](https://www.linkedin.com/in/guillermo-mora-martinez/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Recién Egresado de la carrera de Tecnologías de la información en busca de oportunidades.
+- México 🇲🇽
+- Techstack: Java, Typescript, Python, Php
+
+# Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuillermoMora03&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoMora03&layout=compact)
